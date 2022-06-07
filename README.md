@@ -10,5 +10,7 @@ Plugin para 3DSMax realizado en MaxScript que permite:
 - Deformar a los fantasmas al morir con modificadores Twist y Blend
 
 Este plugin se ha utilizado para el siguiente tráiler: https://www.youtube.com/watch?v=P--LD5HjmEI&t=1s&ab_channel=GasparMr6
+
+Ejemplo de mapa generado con el Plugin:
 ![mapa_comecocos](resources/mapa.png)
 
